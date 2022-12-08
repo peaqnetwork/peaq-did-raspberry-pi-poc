@@ -54,7 +54,7 @@ const callDIDPallet = async (address, didDocumentHash) => {
           console.log(
             "---------DID document failed to save to network!----------"
           );
-          process.exit(1);
+          // process.exit(1);
         }
         console.log("---------DID document saved to network!----------");
 
