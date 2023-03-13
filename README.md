@@ -1,4 +1,4 @@
-# peaq-did-raspberry-pi
+# peaq-did-raspberry-pi-poc
 
 Following are the steps that are needed to install the utilites needed for setting up a Pi on peaq network as a pre-req Pi OS should be installed.
 
