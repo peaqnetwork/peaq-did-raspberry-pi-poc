@@ -14,4 +14,4 @@
 13. sudo env PATH=$PATH:/home/pi/.nvm/versions/node/v18.12.1/bin
 /home/pi/.nvm/versions/node/v18.12.1/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi
 14. pm2 save
-15  check the DID thoroug pm2 log
+15.  check the DID thoroug pm2 log
