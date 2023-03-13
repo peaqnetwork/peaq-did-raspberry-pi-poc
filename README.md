@@ -1,4 +1,7 @@
 # peaq-did-raspberry-pi
+
+Following are the steps that are needed to install the utilites needed for setting up a Pi on peaq network as a pre-req Pi OS should be installed.
+
 1. curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 2. source ~/.bashrc
 3. nvm -v
@@ -6,7 +9,7 @@
 5. node -v
 6. https://ubuntu.com/tutorials/install-and-configure-nginx#2-installing-nginx 
 7. check nginx
-8. git clone and install (https://github.com/peaqnetwork/peaq-did-raspberry-pi)
+8. git clone and install (https://github.com/peaqnetwork/peaq-did-raspberry-pi-poc)
 9.  npm i
 10. npm install pm2@latest -g
 11. pm2 start index.js
